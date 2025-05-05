@@ -54,7 +54,7 @@ const main = async() => {
             console.log('Received NewAggregationReceipt event:', eventData);
           },
           options: {
-            domainId: 1
+            domainId: 3
           }
         },
         {
